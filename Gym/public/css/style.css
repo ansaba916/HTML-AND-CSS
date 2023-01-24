@@ -1,0 +1,75 @@
+#nav{
+    background-image: url(../Image/GYM\ PHOTO\ BG.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%; 
+}
+
+
+#div1{
+    margin-top: -7px;
+    margin-left: 90px;
+    color: white;
+}
+#logo{
+    margin-left: 2cm;
+    margin-bottom: 1cm;
+    
+
+}
+.butt{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-top: -7px;
+}
+.list{
+    list-style: none;
+    float: right;
+}
+.list1{
+    text-decoration: underline;
+}
+#border{
+    border-radius: 5%;
+    border: white;
+    border-style: solid;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 20cm;
+}
+#border1{
+    border-radius: 5%;
+
+    border: white;
+    border-style: solid;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    margin-right: 30px;
+
+}
+#div3{
+    border-radius: 5%;
+
+    border: white;
+    border-style: solid;
+    width: 400px;
+    height: 500px;
+    margin-left: 3cm;
+    margin-top: 1cm;
+    
+}
+#box{
+    margin-top: 1cm;
+    margin-left: 2cm;
+   
+}
+h3{
+    margin-top: 75px;
+    margin-right: 2cm;
+    font-weight: bold;
+    color: ghostwhite;
+}
